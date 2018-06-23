@@ -4,13 +4,13 @@
 @echo off
 color 7
 title Log Killer
-echo ############################################
+echo -==========================================-
 echo #                                          #
-echo # Log killer By Rizer (Github [ @Rizer0 ]) #
+echo #            -| Log killer |-              #
 echo #                                          # v 1.0
 echo #   This tool going to delete all logs !   #
 echo #                                          #
-echo ############################################
+echo -==========================================-
 timeout 5
 :home
 for /F "tokens=*" %%G in ('wevtutil.exe el') DO (call :clear "%%G")
