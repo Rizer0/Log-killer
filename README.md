@@ -4,7 +4,7 @@ you can use this tool by download this repository and run the bat file<br>
 or go to releases and download executeabel file and run it<br>
 
 # ScreenShots
-<b>Windows (executable release):</b><br>
+<b>Windows (batch file):</b><br>
 <img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/w1.png"/>
 <img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/w2.png"/><br><br>
 <b>Linux</b> :<br>
