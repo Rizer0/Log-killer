@@ -1,6 +1,3 @@
-::This Tool By Rizer
-::License = WTFPL [Do what the fuck you want to , public license]
-::Thanks To SystemCrashers Teams
 @echo off
 color 7
 title Log Killer
