@@ -2,7 +2,7 @@
 color 7
 title Log Killer
 echo  -==========================================-
-echo -=            -| Log killer |-              =-
+echo -=               Log killer                 =-
 echo -=   This tool going to delete all logs !   =-
 echo  -==========================================-
 timeout 5
