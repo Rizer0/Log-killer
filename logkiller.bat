@@ -6,12 +6,10 @@ echo -=            -| Log killer |-              =-
 echo -=   This tool going to delete all logs !   =-
 echo  -==========================================-
 timeout 5
-:home
 for /F "tokens=*" %%G in ('wevtutil.exe el') DO (call :clear "%%G")
 echo.
 echo logs has deleted
 timeout 5
-goto :home
 :clear
 echo [+] %1
 wevtutil.exe cl %1
