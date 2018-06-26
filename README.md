@@ -8,7 +8,7 @@ Then you should run the php script<br></b>
 
 # ScreenShots
 <b>Windows (batch file):</b><br>
-<img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/w1.png"/>
+<img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/2018-06-26_160703.png"/>
 <img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/w2.png"/><br><br>
 <b>Linux</b> :<br>
 <img src="https://github.com/Rizer0/Log-killer/blob/master/screenShots/l1.png"/>
