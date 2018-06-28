@@ -18,6 +18,6 @@ Then you should run the php script<br></b>
 <h2>Video : </h2>
 <a href="https://youtu.be/_5wpKYaJQko"><img src="./screenShots/youtube.png"/></a>
 <br>
-#License 
+# License 
 <a href="http://www.wtfpl.net/"><img src="https://github.com/Rizer0/Log-killer/blob/master/license.png"/></a><br>
 and special thanks to <a href="http://www.f2ko.de">f2ko</a> & <a href="https://github.com/mrSqar-Ye">MrSqar</a>
