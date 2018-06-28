@@ -16,7 +16,8 @@ Then you should run the php script<br></b>
 <img src="./screenShots/l3.png"/>
 <hr>
 <h2>Video : </h2>
-<img src="./screenShots/youtubeu.png"/>
+<img src="./screenShots/youtube.png"/>
+<br>
 # License 
 <a href="http://www.wtfpl.net/"><img src="https://github.com/Rizer0/Log-killer/blob/master/license.png"/></a><br>
 and special thanks to <a href="http://www.f2ko.de">f2ko</a> & <a href="https://github.com/mrSqar-Ye">MrSqar</a>
