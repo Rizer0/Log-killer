@@ -2,7 +2,7 @@
 <b>Log Killer is tool for [Linux/Windows] Servers<br>
 This tool will delete all your logs<br>
 just download the tool and run it on the server<br> 
-if your server OS is Windows download the batch file<br>
+if your server OS is Windows then download the batch file and run it as administartor<br>
 but if your server Linux<br>
 Then you should run the php script<br></b>
 
