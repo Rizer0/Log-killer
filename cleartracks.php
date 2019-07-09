@@ -24,7 +24,7 @@ echo "\n";
 echo "\n  [~] DETECTED ! ";
 echo " Linux server ";
 echo "\n  [+] WAIT ...\n";
-sleep(2s)
+sleep(2);
 system("clear");
 }
 //|SORRY MESSAGE|\\
