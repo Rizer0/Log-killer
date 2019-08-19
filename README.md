@@ -6,7 +6,7 @@ if your server OS is Windows then download the batch file and run it as administ
 but if your server Linux<br>
 Then you should run the php script<br></b>
 
-# ScreenShots
+# ScreenShots 
 <b>Windows (batch file):</b><br>
 <img src="./screenShots/2018-06-26_160703.png"/>
 <img src="./screenShots/w2.png"/><br><br>
